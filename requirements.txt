@@ -1,5 +1,6 @@
 # Gemeinsame Paketbasis: Conda/pip und Codespaces verwenden dieselben Versionen.
 # Zielversion: Python 3.12. SQLite gehört zur Python-Standardbibliothek.
+python==3.12
 pandas==2.2.3
 numpy==1.26.4
 matplotlib==3.9.2
